@@ -11,7 +11,7 @@ public class Practice {
 
 	public static void main(String[] args) {
 		try {
-			int a = 8;
+			int a = 10;
 			if(a == 10) {
 				throw new Exception();
 			}
